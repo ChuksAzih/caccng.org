@@ -245,6 +245,17 @@ body {
       font-size: 3.5rem;
     }
   }
+  @media (max-width: 1100px){
+    #title {
+        text-align: center;
+    }
+    .title-image {
+        position: static;
+        width: 60%;
+        transform: rotate(0);
+    }
+   }
+
 
   .b-example-divider {
     height: 3rem;
