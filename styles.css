@@ -280,7 +280,7 @@ body {
 .hero-overlay {
     position: absolute;
     inset: 0;
-    background: linear-gradient(to right, hsla(150, 92%, 30%, 0.8), hsla(150, 91%, 26%, 0.6));
+    background: linear-gradient(to right, hsla(150, 95%, 24%, 0.8), hsla(150, 95%, 29%, 0.6));
 }
 
 .hero-content {
